@@ -3,8 +3,8 @@
 // @namespace    https://github.com/3m51k/kinopoisk-to-ggpoisk-button
 // @homepageURL  https://github.com/3m51k/kinopoisk-to-ggpoisk-button
 // @supportURL   https://github.com/3m51k/kinopoisk-to-ggpoisk-button/issues
-// @downloadURL  https://raw.githubusercontent.com/3m51k/kinopoisk-to-ggpoisk-button/main/ggpoisk-flag.user.js
-// @updateURL    https://raw.githubusercontent.com/3m51k/kinopoisk-to-ggpoisk-button/main/ggpoisk-flag.user.js
+// @downloadURL  https://raw.githubusercontent.com/3m51k/kinopoisk-to-ggpoisk-button/main/kinopoisk-to-ggpoisk-button.js
+// @updateURL    https://raw.githubusercontent.com/3m51k/kinopoisk-to-ggpoisk-button/main//kinopoisk-to-ggpoisk-button.js
 // @version      1.0.0
 // @author       3m51k 10% deepseek 90%
 // @description  Добавляет рыжую вертикальную закладку на Кинопоиск для перехода на GGpoisk.
