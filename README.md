@@ -9,7 +9,7 @@
 
 2. Установите сам скрипт, перейдя по этой ссылке:
   **[Установить скрипт kinopoisk-to-ggpoisk-button
-](https://raw.githubusercontent.com/3m51k/kinopoisk-to-ggpoisk-button/main/ggpoisk-flag.user.js)**
+](https://raw.githubusercontent.com/3m51k/kinopoisk-to-ggpoisk-button/main/kinopoisk-to-ggpoisk-button.js))**
 
 3. Готово! Откройте любую страницу фильма на `kinopoisk.ru` — в левой части экрана появится рыжая закладка с треугольником. Нажмите на неё.
 
