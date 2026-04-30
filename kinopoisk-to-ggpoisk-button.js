@@ -10,6 +10,7 @@
 // @description  Добавляет рыжую вертикальную закладку на Кинопоиск для перехода на GGpoisk.
 // @match        *://*.kinopoisk.ru/film/*
 // @match        *://*.kinopoisk.ru/series/*
+// @icon         https://avatars.githubusercontent.com/u/191535389?s=400&u=bef9b29645558878e9a78f9eec21d2d9dc52addf&v
 // @grant        none
 // @license      MIT
 // ==/UserScript==
